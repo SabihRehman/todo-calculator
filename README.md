@@ -17,7 +17,6 @@ $ npm run start
 $ npm run generate
 ```
 
-```
 Hosted on http://todo-calculator.surge.sh/todoList
-```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
