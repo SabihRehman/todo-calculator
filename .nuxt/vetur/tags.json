@@ -1,0 +1,20 @@
+{
+  "Calculator": {
+    "description": "Auto imported from components/Calculator.vue"
+  },
+  "LazyCalculator": {
+    "description": "Auto imported from components/Calculator.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ListItems": {
+    "description": "Auto imported from components/ListItems.vue"
+  },
+  "LazyListItems": {
+    "description": "Auto imported from components/ListItems.vue"
+  }
+}

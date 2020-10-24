@@ -1,0 +1,23 @@
+[
+  {
+    "name": "calculator",
+    "path": "/calculator",
+    "component": "/Users/sohaib/Workspace/projects/vuejs/todo-calculator/pages/calculator.vue",
+    "chunkName": "pages/calculator",
+    "_name": "_66c40fe5"
+  },
+  {
+    "name": "todoList",
+    "path": "/todoList",
+    "component": "/Users/sohaib/Workspace/projects/vuejs/todo-calculator/pages/todoList.vue",
+    "chunkName": "pages/todoList",
+    "_name": "_461ca4a7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sohaib/Workspace/projects/vuejs/todo-calculator/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_15bc8782"
+  }
+]
